@@ -1,4 +1,0 @@
-{
-    "mongoURI": "mongodb+srv://michael:MOlsh2017@devconnectproject.txeze.mongodb.net/DevConnectProject?retryWrites=true&w=majority",
-    "jwtSecret": "mysecrettoken"
-}
